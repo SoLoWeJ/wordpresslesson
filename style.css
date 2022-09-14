@@ -144,8 +144,8 @@ ul {
 	height: 1129px;
 	padding-top: 128px;
 	padding-bottom: 271px;
-	background: url("img/pictures/buildings_white.png") center bottom repeat-x,
-		url("img/pictures/buildings_dark.png") center bottom repeat-x,
+	background: url(img/pictures/buildings_white.png) center bottom repeat-x,
+		url(img/pictures/buildings_dark.png) center bottom repeat-x,
 		#1d1d1d;
 }
 
