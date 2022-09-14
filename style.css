@@ -33,6 +33,12 @@
 	src: url(../fonts/Roboto-Regular.ttf) format(trutype);
 }
 
+@font-face {
+	font-family: "fontello";
+	src: url(../fonts/fontello.woff2) format(woff2);
+}
+
+
 
 
 /* 
@@ -138,8 +144,8 @@ ul {
 	height: 1129px;
 	padding-top: 128px;
 	padding-bottom: 271px;
-	background: url(img/buildings_white.png) center bottom repeat-x,
-		url(img/buildings_dark.png) center bottom repeat-x,
+	background: url(img/pictures/buildings_white.png) center bottom repeat-x,
+		url(img/pictures/buildings_dark.png) center bottom repeat-x,
 		#1d1d1d;
 }
 
